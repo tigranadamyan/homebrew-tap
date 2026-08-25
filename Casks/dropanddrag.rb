@@ -1,7 +1,7 @@
 cask "dropanddrag" do
-  version "1.0.14"
-  sha256 arm:   "585b2916089ee6ccb463e4346de13fea610c734da48ea4cea75a671fc927985b",
-         intel: "585b2916089ee6ccb463e4346de13fea610c734da48ea4cea75a671fc927985b"
+  version "1.0.15"
+  sha256 arm:   "5e6e61f8090d3a2155d265b1c7e5be7fe73d14c9f14531dd2b7a90714de1826d",
+         intel: "5e6e61f8090d3a2155d265b1c7e5be7fe73d14c9f14531dd2b7a90714de1826d"
   url "https://github.com/tigranadamyan/DropAndDrag/releases/download/v#{version}/DropAndDrag-#{version}-macOS.dmg"
   name "DropAndDrag" 
   desc "Fast cross-platform drag-and-drop shelf utility"
